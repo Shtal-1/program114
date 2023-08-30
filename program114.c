@@ -52,14 +52,4 @@ int main()
     return 0;
 }
 
-// Topics for data strctures
-// Pointers
-// malloc
-// free
-// structure
-// Self referential structure
-// # define
-// typedef
-// Call by value
-// Call by address
-// Ponter to pointer
+
